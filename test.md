@@ -16,4 +16,4 @@ Things will go bad THAT WE USING PADDING
  + standard 
    + Batchnorm in CV tasks & Layernorm in NLP tasks.
 + VGG's normalisation is layer normalisation???
->>> How to use batch normalisation & layer normalisation???
+>>> How to use _batch_ normalisation & _layer_ normalisation???
