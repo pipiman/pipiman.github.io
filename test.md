@@ -12,4 +12,8 @@ Things will go bad THAT WE USING PADDING
     >>> input = torch.randn(20, 16, 50, 100)  
     >>> output = m(input)  
 
- 
+### Batchnorm  Layernorm ###
+ + standard 
+   + Batchnorm in CV tasks & Layernorm in NLP tasks.
++ VGG's normalisation is layer normalisation???
+>>> How to use batch normalisation & layer normalisation???
