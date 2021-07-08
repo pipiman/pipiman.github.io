@@ -11,7 +11,7 @@ Things will go bad THAT WE USING PADDING
     >>> m = nn.Conv2d(16, 33, (3, 5), stride=(2, 1), padding=(4, 2), dilation=(3, 1))  
     >>> input = torch.randn(20, 16, 50, 100)  
     >>> output = m(input)  
-+ ![image_gif](/home/pipiman/Games/pipiman.github.io/v2-4959201e816888c6648f2e78cccfd253_b.gif "sdsd")
++ ![image_gif](./v2-4959201e816888c6648f2e78cccfd253_b.gif "sdsd")
 ### Batchnorm  Layernorm ###
  + standard 
    + Batchnorm in CV tasks & Layernorm in NLP tasks.
