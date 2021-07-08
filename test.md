@@ -32,3 +32,7 @@ Things will go bad THAT WE USING PADDING
 #### Channel_output ####
 + usually 2
 
+
+### The Rigth Ordering !!! ###
++ The correct order is: Conv > Normalization > Activation > Dropout > Pooling
++ [l](https://arxiv.org/pdf/1801.05134.pdf "l")
